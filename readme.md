@@ -4,14 +4,14 @@ This repository is for: [Kodenames.io](https://kodenames.io/)
 
 Use this repository to:
 
-- Report issues & bugs
+- Report issues & bugs or submit features
 - Submit additional `CSS` styles
 - Submit new words / languages
 
 
-## Reporting bugs
+## Reporting bugs / features
 
-Pleas submit bugs to the [issues section](https://github.com/Committing/kodenames.io_public/issues) of this repository
+Pleas submit bugs and feature requests to the [issues section](https://github.com/Committing/kodenames.io_public/issues) of this repository
 
 ## Submitting new `css` styles
 
