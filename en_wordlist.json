@@ -1517,6 +1517,9 @@
     "Set": {
         "rude": false
     },
+    "Sex": {
+        "rude": true
+    },
     "Shaft": {
         "rude": false
     },
@@ -1584,6 +1587,9 @@
         "rude": false
     },
     "Slam": {
+        "rude": false
+    },
+    "Slap": {
         "rude": false
     },
     "Sleep": {
@@ -1742,6 +1748,9 @@
     "Swing": {
         "rude": false
     },
+    "Syringe": {
+        "rude": false
+    },
     "Tachometer": {
         "rude": false
     },
@@ -1776,6 +1785,9 @@
         "rude": false
     },
     "Tennis": {
+        "rude": false
+    },
+    "Tequila": {
         "rude": false
     },
     "Thief": {
@@ -1941,6 +1953,9 @@
         "rude": false
     },
     "White": {
+        "rude": false
+    },
+    "Whiskey": {
         "rude": false
     },
     "Whore": {
