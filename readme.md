@@ -13,7 +13,7 @@ Pleas submit bugs to the [issues section](https://github.com/Committing/kodename
 
 ## Submitting new `css` styles
 
-Please add new styles to the `community_styles.css` file. Kind regards.
+Please add new styles to the `community_stylesheet.css` file. Kind regards.
 
 ## Submitting new words / languages
 
@@ -27,5 +27,6 @@ At the moment we only have EN_ (English). Any new language files should start wi
 
 `example_wordlist.json` - example new language file
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+#### Contact
+
+[Steam Account](https://steamcommunity.com/id/tirone)
