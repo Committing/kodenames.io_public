@@ -1,5 +1,7 @@
 # Kodenames.io public resources
 
+This repository is for: [Kodenames.io](https://kodenames.io/)
+
 Use this repository to:
 
 - Report issues & bugs
