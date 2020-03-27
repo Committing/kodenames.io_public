@@ -25,7 +25,7 @@ Simply add new words to the `.json` array file called `en_wordlist.json`. If all
 
 At the moment we only have EN_ (English). Any new language files should start with an [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) code of the language used.
 
-`example_wordlist.json` - example new language file
+`example_wordlist.json` - example language file
 
 #### Contact
 
