@@ -1,6 +1,6 @@
 # Kodenames.io public resources
 
-This repo is for users of kodenames.io to have their say. Use this repository to:
+Use this repository to:
 
 - Report issues & bugs
 - Submit additional `CSS` styles
