@@ -29,6 +29,6 @@ At the moment we only have EN_ (English). Any new language files should start wi
 
 `example_wordlist.json` - example language file
 
-#### Contact
+## Contact
 
 [Steam Account](https://steamcommunity.com/id/tirone)
