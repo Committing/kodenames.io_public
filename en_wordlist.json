@@ -26,6 +26,21 @@
     "Beauty": {
         "rude": false
     },
+    "Buck": {
+        "rude": false
+    },
+    "Bug": {
+        "rude": false
+    },
+    "Buddah": {
+        "rude": false
+    },
+    "Book": {
+        "rude": false
+    },
+    "Bible": {
+        "rude": false
+    },
     "Blue": {
         "rude": false
     },
@@ -45,6 +60,12 @@
         "rude": false
     },
     "Candy": {
+        "rude": false
+    },
+    "Cane": {
+        "rude": false
+    },
+    "Canoe": {
         "rude": false
     },
     "Cape": {
@@ -120,6 +141,9 @@
         "rude": false
     },
     "Cigarette": {
+        "rude": false
+    },
+    "Circle": {
         "rude": false
     },
     "Circus": {
@@ -311,6 +335,9 @@
     "Doll": {
         "rude": false
     },
+    "Domain": {
+        "rude": false
+    },
     "Dominoes": {
         "rude": false
     },
@@ -414,6 +441,12 @@
         "rude": false
     },
     "Fan": {
+        "rude": false
+    },
+    "Fact": {
+        "rude": false
+    },
+    "Factory": {
         "rude": false
     },
     "Fancy": {
@@ -558,6 +591,9 @@
         "rude": false
     },
     "Glasses": {
+        "rude": false
+    },
+    "God": {
         "rude": false
     },
     "Goblin": {
@@ -770,6 +806,9 @@
     "Jet": {
         "rude": false
     },
+    "Jerk": {
+        "rude": false
+    },
     "Jig": {
         "rude": false
     },
@@ -959,8 +998,8 @@
     "Mascot": {
         "rude": false
     },
-    "Mast": {
-        "rude": false
+    "Masturbate": {
+        "rude": true
     },
     "Matchstick": {
         "rude": false
@@ -1056,6 +1095,9 @@
         "rude": false
     },
     "Nature": {
+        "rude": false
+    },
+    "Numbers": {
         "rude": false
     },
     "Negotiate": {
@@ -1208,6 +1250,9 @@
     "Piano": {
         "rude": false
     },
+    "Picture": {
+        "rude": false
+    },
     "Picnic": {
         "rude": false
     },
@@ -1304,6 +1349,9 @@
     "President": {
         "rude": false
     },
+    "Priest": {
+        "rude": false
+    },
     "Prince": {
         "rude": false
     },
@@ -1346,7 +1394,7 @@
     "Push": {
         "rude": false
     },
-    "Puzzle": {
+    "Puzzles": {
         "rude": false
     },
     "Quarantine": {
@@ -1580,6 +1628,9 @@
     "Ski": {
         "rude": false
     },
+    "Skirt": {
+        "rude": false
+    },
     "Slam": {
         "rude": false
     },
@@ -1611,6 +1662,9 @@
         "rude": false
     },
     "Snuggle": {
+        "rude": false
+    },
+    "Snoozing": {
         "rude": false
     },
     "Song": {
@@ -1873,6 +1927,9 @@
     },
     "Twang": {
         "rude": false
+    },
+    "Twat": {
+        "rude": true
     },
     "Twig": {
         "rude": false
