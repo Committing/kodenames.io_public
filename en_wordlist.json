@@ -20,6 +20,12 @@
     "Ant": {
         "rude": false
     },
+    "Ass": {
+        "rude": true
+    },
+    "Bastard": {
+        "rude": true
+    },
     "Beast": {
         "rude": false
     },
@@ -914,6 +920,9 @@
     "Level": {
         "rude": false
     },
+    "Lilly": {
+        "rude": false
+    },
     "Lifestyle": {
         "rude": false
     },
@@ -1134,6 +1143,9 @@
         "rude": false
     },
     "Observation": {
+        "rude": false
+    },
+    "Ocean": {
         "rude": false
     },
     "October": {
@@ -1449,6 +1461,9 @@
         "rude": false
     },
     "Rib": {
+        "rude": false
+    },
+    "River": {
         "rude": false
     },
     "Riddle": {
@@ -1767,6 +1782,9 @@
         "rude": false
     },
     "Student": {
+        "rude": false
+    },
+    "Stupid": {
         "rude": false
     },
     "Subtraction": {
